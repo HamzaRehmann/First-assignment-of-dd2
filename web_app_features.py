@@ -1,5 +1,9 @@
 print("Welcome to the Web Application Feature Selector!")
 print("Please select the features you would like to have in your web application:")
+print("printing to show the conflict while merging")
+
+
+print("printing to show the conflict while merging")
 
 features = []
 
